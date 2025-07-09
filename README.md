@@ -58,9 +58,3 @@ The system expects a dataset named `airline.csv` with the following columns:
 
 ---
 
-## Dependencies
-
-Install the required packages:
-
-```bash
-pip install pandas numpy nltk
